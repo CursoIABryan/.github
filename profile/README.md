@@ -14,11 +14,11 @@
 
 ## Leyenda
 
-- 🔵 **Programación Intelig. Artif.**
-- 🟢 **Big Data aplicado**
-- 🟣 **Sistemas de Big Data**
-- 🟡 **Sistemas de aprendizaje autom.**
-- 🔴 **Modelos de Intelig. Artif.**
+- 🔵 **[Programación Intelig. Artif.](https://github.com/CursoIABryan/Programacion-de-Inteligencia-Artificial-RAUL)**
+- 🟢 **[Big Data aplicado](https://github.com/CursoIABryan/CE---Big-Data-TEO-)**
+- 🟣 **[Sistemas de Big Data](https://github.com/CursoIABryan/CE---Big-Data-TEO-)**
+- 🟡 **[Sistemas de aprendizaje autom.](https://github.com/CursoIABryan/SISTEMAS-DE-APRENDIZAJE-AUTOMATICO)**
+- 🔴 **[Modelos de Intelig. Artif.](https://github.com/CursoIABryan/Modelos-de-Inteligencia-Artificial)**
 
 ## Profesorado
 
