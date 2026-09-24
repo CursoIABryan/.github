@@ -25,3 +25,7 @@
 - **L G, Teo** — Teodoro Lazo García
 - **R V, Raúl** — Raúll Rubio Vázquez
 - **R G, Antonio** — Antonio Román Gallego
+
+## Recursos necesarios
+
+- [Repositorio global de configuración y recursos](https://github.com/CursoIABryan/.github)
