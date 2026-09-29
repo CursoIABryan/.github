@@ -29,3 +29,4 @@
 ## Recursos necesarios
 
 - [Repositorio global de configuración y recursos](https://github.com/CursoIABryan/.github)
+- [Documentación en Obsidian](https://github.com/CursoIABryan/ApuntesObsidian)
